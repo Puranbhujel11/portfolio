@@ -1,0 +1,39 @@
+ [
+
+    {
+        "id": 1,
+        "name": "Gateway Project",
+        "img": "projectImg/barcelona.jpeg",
+        "Skill": "HTML/CSS",
+        "btn": "https://replit.com/@PuranBhujel/Gateway-Redesign-Project#index.html"
+    },
+    {
+        "id": 2,
+        "name": "Social Injustice ",
+        "img": "projectImg/socialInjustice.jpeg",
+        "Skill": "HTML/CSS",
+        "btn": "https://github.com/Puranbhujel11/SIJW"
+    },
+    {
+        "id": 3,
+        "name": "Ecommerce Project",
+        "img": "projectImg/leocom.jpeg",
+        "Skill": "HTML/CSS",
+        "btn": "https://github.com/Puranbhujel11/ecomGuided"
+    },
+    {
+        "id": 4,
+        "name": "Hope Hacks",
+        "img": "projectImg/fithub.png",
+        "Skill": "Express.js",
+        "btn": "https://github.com/Puranbhujel11/hopehacks"
+    },
+    {
+        "id": 5,
+        "name": "Glowing Footer/Upcoming",
+        "img": "projectImg/glowingFooter.jpeg",
+        "Skill": "HTML/CSS",
+        "btn": "https://github.com/Puranbhujel11/GlowingLink"
+    }
+]
+
